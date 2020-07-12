@@ -3,10 +3,11 @@ config.py
 
 # Adding additional files.
 API_practice.ipynb
+API_Practice.ipynb
 random_numbers.ipynb
 try-except.ipynb
 Traversing_JSONs.ipynb
-Random.ipynb
+linear_regression.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

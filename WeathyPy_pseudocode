@@ -1,0 +1,22 @@
+1. Import our dependencies and initialize counters and an empty list that will hold the weather data.
+
+2. Loop through the cities list.
+
+3. Group the cities in sets of 50 to log the process as we find the weather data for each city.
+    - Two counters will be needed here: one to log the city count from 1 to 50, and another for the sets.
+    
+4. Build the city_url or endpoint for each city.
+
+5. Log the URL and the record and set numbers.
+
+6. Make an API request for each city.
+
+7. Parse the JSON weather data for the following:
+    - City, country, and date
+    - Latitude and longitude
+    - Maximum temperature
+    - Humidity
+    - Cloudiness
+    - Wind speed
+    
+8. Add the data to a list in a dictionary format and then convert the list to a DataFrame.
